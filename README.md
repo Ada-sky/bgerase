@@ -1,6 +1,6 @@
-# Image Background Remover — Image Processing Web Application
+# BgErase — Image Background Remover
 
-Image Background Remover is a full-stack web application built with React and Spring Boot. It allows users to upload images, remove their backgrounds using the Clipdrop API, preview and download processed results, and purchase credits for additional image processing.
+BgErase is a full-stack image background removal web application built with React and Spring Boot. It allows users to upload images, remove their backgrounds using the Clipdrop API, preview and download processed results, and purchase credits for additional image processing.
 
 ------
 
